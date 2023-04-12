@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jiten
+ *
+ */
+module Collection {
+}
